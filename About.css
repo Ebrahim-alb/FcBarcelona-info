@@ -9,7 +9,7 @@ width: 1473px
 }
 }
 @media only screen and (min-width: 400px){
-  .eb { max-width: 1473px}
+  .eb { max-width: 1200px}
 }
 .Heading {
   background: linear-gradient(to left,red,blue);
