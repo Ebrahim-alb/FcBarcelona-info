@@ -1,0 +1,396 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+.Heading {
+  background: linear-gradient(to left,red,blue);
+  color: white;
+  margin: 0;
+  padding: 25px;
+  text-align: center;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+.button{
+  width: 100%;
+  height: 100%;
+  position:relative;
+  padding: 0 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 20px 8%;
+  display: block;
+  align-items: center;
+  justify-content: space-between;
+}
+.button ul li{
+  list-style:none;
+  display: inline-block;
+  margin-left: 40px;
+}
+.button ul li a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 17px;
+}
+.retro{
+  width: 100%;
+  padding: 100px 0px;
+  background: linear-gradient( to left,maroon,midnightblue);
+  justify-content: center;
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+}
+.menu {width: 25%;
+  float: left;
+  padding: 25px;
+  border: 1px
+   solid white;
+   color: white;
+   text-align: center;
+ }
+.main {width: 75%;
+  float: left;
+  padding: 15px;
+  border: 1px
+  solid white;
+ color: white;
+ text-align: center;
+}
+.imaj{
+height: 250px;
+display:flex;
+width: 250px;
+margin-right: 20px;
+align-items: center;
+}
+
+
+
+/**This was for the first trophy**/
+
+
+.roe{
+width: 100%;
+padding: 100px 0px;
+background: linear-gradient( to left,maroon,midnightblue);
+justify-content: center;
+display: flex;
+font-size: 20px;
+align-items: center;
+   }
+
+.men {
+width: 25%;
+float: left;
+padding: 25px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+}
+.map {
+width: 75%;
+float: left;
+padding: 15px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+ }
+
+.span{
+color: black;
+}
+.ucl{
+height: 240px;
+display:flex;
+width: 240px;
+margin-right: 20px;
+align-items: center;
+align-content: center;
+
+}
+/** This was for the second trophy**/
+
+.euro{
+width: 100%;
+padding: 100px 0px;
+background: linear-gradient( to left,maroon,midnightblue);
+justify-content: center;
+display: flex;
+font-size: 20px;
+align-items: center;
+   }
+
+.pean {
+width: 25%;
+float: left;
+padding: 25px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+font-size: 18px;
+}
+.old {
+width: 75%;
+float: left;
+padding: 15px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+ }
+.old-ucl{
+height: 240px;
+display:flex;
+width: 240px;
+margin-right: 20px;
+align-items: center;
+align-content: center;
+
+}
+/** This was for the third trophy**/
+.la{
+width: 100%;
+padding: 100px 0px;
+background: linear-gradient( to left,maroon,midnightblue);
+justify-content: center;
+display: flex;
+font-size: 20px;
+align-items: center;
+   }
+
+.liga {
+width: 25%;
+float: left;
+padding: 25px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+font-size: 18px;
+}
+.cup {
+width: 75%;
+float: left;
+padding: 15px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+ }
+.spanish{
+height: 240px;
+display:flex;
+width: 240px;
+margin-right: 20px;
+align-items: center;
+align-content: center;
+
+}
+/** This was for the fourth trophy**/
+
+.UE{
+width: 100%;
+padding: 100px 0px;
+background: linear-gradient( to left,maroon,midnightblue);
+justify-content: center;
+display: flex;
+font-size: 20px;
+align-items: center;
+   }
+
+.FA{
+width: 25%;
+float: left;
+padding: 25px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+font-size: 18px;
+}
+.cupp {
+width: 75%;
+float: left;
+padding: 15px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+ }
+.supercup{
+height: 240px;
+display:flex;
+width: 240px;
+margin-right: 20px;
+align-items: center;
+align-content: center;
+}
+/** This was for the Fifth section**/
+
+.win{
+width: 100%;
+padding: 100px 0px;
+background: linear-gradient( to left,maroon,midnightblue);
+justify-content: center;
+display: flex;
+font-size: 20px;
+align-items: center;
+   }
+
+.nwr{
+width: 25%;
+float: left;
+padding: 25px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+font-size: 18px;
+}
+.winner {
+width: 75%;
+float: left;
+padding: 15px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+ }
+.cupw{
+height: 240px;
+display:flex;
+width: 240px;
+margin-right: 20px;
+align-items: center;
+align-content: center;
+}
+/** This was for the Sixth section**/
+
+.oer{
+width: 100%;
+padding: 100px 0px;
+background: linear-gradient( to left,maroon,midnightblue);
+justify-content: center;
+display: flex;
+font-size: 20px;
+align-items: center;
+   }
+
+.spal{
+width: 25%;
+float: left;
+padding: 25px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+font-size: 18px;
+}
+.last {
+width: 75%;
+float: left;
+padding: 15px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+ }
+.pic{
+height: 240px;
+display:flex;
+width: 240px;
+margin-right: 20px;
+align-items: center;
+align-content: center;
+}
+/** This was for the seventh section**/
+
+.cur{
+width: 100%;
+padding: 100px 0px;
+background: linear-gradient( to left,maroon,midnightblue);
+justify-content: center;
+display: flex;
+font-size: 20px;
+align-items: center;
+   }
+
+.rent{
+width: 25%;
+float: left;
+padding: 25px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+font-size: 18px;
+}
+.ff {
+width: 75%;
+float: left;
+padding: 15px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+ }
+.picture{
+height: 240px;
+display:flex;
+width: 240px;
+margin-right: 20px;
+align-items: center;
+align-content: center;
+}
+/** This as for the Eighth section**/
+
+.inter{
+width: 100%;
+padding: 100px 0px;
+background: linear-gradient( to left,maroon,midnightblue);
+justify-content: center;
+display: flex;
+font-size: 20px;
+align-items: center;
+   }
+
+.cities{
+width: 25%;
+float: left;
+padding: 25px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+font-size: 18px;
+}
+.sum {
+width: 75%;
+float: left;
+padding: 15px;
+border: 1px
+solid white;
+color: white;
+text-align: center;
+ }
+.fair{
+height: 240px;
+display:flex;
+width: 240px;
+margin-right: 20px;
+align-items: center;
+align-content: center;
+}
