@@ -7,6 +7,9 @@
 body{
 width: 100%
 }
+@media all and (min-width: 200px){
+  .eb { max-width: 1473}
+}
 .Heading {
   background: linear-gradient(to left,red,blue);
   color: white;
