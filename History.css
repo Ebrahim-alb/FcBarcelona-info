@@ -7,7 +7,7 @@ body{
   width: 100%
 }
 @media only screen and (min-width: 400){
-  .History { max-width: 600px}
+  .History { max-width: 1000px}
 }
 .Heading {
   background: linear-gradient(to left,red,blue);
