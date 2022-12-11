@@ -6,8 +6,8 @@
 body{
   width: 100%
 }
-@media only screen and (min-width: 100%){
-  .eb { max-width: 700px}
+@media only screen and (min-width: 80%){
+  .eb { max-width: 100%}
 }
 .Heading {
   background: linear-gradient(to left,red,blue);
