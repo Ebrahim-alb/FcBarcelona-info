@@ -14,7 +14,7 @@ width: 100%
   }
 }
  @media all and (max-width: 500px)
-  { .eb {width: auto;
+  { .eb {width: 1000px;
     }
 }
 .Heading {
@@ -28,7 +28,7 @@ width: 100%
 
 }
 .About{
-  max-width: 100%;
+  width: 100%;
   padding: 100px 0px;
   background: linear-gradient( to left,#191919,midnightblue);
   justify-content: center;
@@ -49,7 +49,7 @@ display: flex;
 
 }
 .About-text{
-  max-width: 600px;
+  width: 600px;
   color: white;
 }
 .About-text > h2{
@@ -58,8 +58,8 @@ display: flex;
   margin-bottom: 20px;
 }
 .main{
-  max-width: 1130px;
-  max-width: 95%;
+  width: 1130px;
+  width: 95%;
   margin: 0 auto;
   justify-content: space-around;
   align-items: center;
@@ -69,7 +69,7 @@ display: flex;
 
 
 .Content {
-  max-width: 100%;
+ width: 100%;
   padding: 100px 0px;
   background: linear-gradient( to left,#191919,midnightblue);
 }
@@ -82,13 +82,13 @@ display: flex;
 }
 .Content img{
 height: auto;
-max-width: 600px;
+width: 600px;
 margin-right: 20px;
 display: flex;
 
 }
 .Content-text{
-  max-width: 600px;
+  width: 600px;
   color: white;
 }
 .Content-text > h2 {
@@ -97,8 +97,8 @@ display: flex;
   margin-bottom: 20px;
 }
 .camp{
-  max-width: 1130px;
-  max-width: 95%;
+  width: 1130px;
+  width: 95%;
   margin: 0 auto;
   justify-content: space-around;
   align-items: center;
@@ -106,7 +106,7 @@ display: flex;
 }
 
 .laporta {
-  max-width: 100%;
+  width: 100%;
   padding: 100px 0px;
   background: linear-gradient( to left,#191919,midnightblue);
 }
@@ -125,7 +125,7 @@ display: flex;
 
 }
 .laporta-text{
-  max-width: 600px;
+  width: 600px;
   color: white;
 }
 .laporta-text > h2 {
@@ -134,15 +134,15 @@ display: flex;
   margin-bottom: 20px;
 }
 .bcb{
-  max-width: 1130px;
-  max-width: 95%;
+  width: 1130px;
+  width: 95%;
   margin: 0 auto;
   justify-content: space-around;
   align-items: center;
   display: flex;
 }
 .button{
-  max-width: 100%;
+  width: 100%;
   height: 100%;
   position:relative;
   padding: 0 5%;
