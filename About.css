@@ -14,7 +14,7 @@ width: 100%
   }
 }
  @media all and (max-width: 500px)
-  { .eb {width: 700px;
+  { .eb {width: auto;
     }
 }
 .Heading {
@@ -49,7 +49,7 @@ display: flex;
 
 }
 .About-text{
-  width: 600px;
+  max-width: 600px;
   color: white;
 }
 .About-text > h2{
@@ -58,7 +58,7 @@ display: flex;
   margin-bottom: 20px;
 }
 .main{
-  width: 1130px;
+  max-width: 1130px;
   max-width: 95%;
   margin: 0 auto;
   justify-content: space-around;
@@ -88,7 +88,7 @@ display: flex;
 
 }
 .Content-text{
-  width: 600px;
+  max-width: 600px;
   color: white;
 }
 .Content-text > h2 {
@@ -97,7 +97,7 @@ display: flex;
   margin-bottom: 20px;
 }
 .camp{
-  width: 1130px;
+  max-width: 1130px;
   max-width: 95%;
   margin: 0 auto;
   justify-content: space-around;
@@ -125,7 +125,7 @@ display: flex;
 
 }
 .laporta-text{
-  width: 600px;
+  max-width: 600px;
   color: white;
 }
 .laporta-text > h2 {
@@ -134,7 +134,7 @@ display: flex;
   margin-bottom: 20px;
 }
 .bcb{
-  width: 1130px;
+  max-width: 1130px;
   max-width: 95%;
   margin: 0 auto;
   justify-content: space-around;
