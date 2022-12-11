@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  width: 100%
+  
 }
 @media only screen and (min-width: 80%){
   .eb { max-width: 100%}
