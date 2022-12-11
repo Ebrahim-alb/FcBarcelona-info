@@ -14,7 +14,7 @@ width: 100%
   }
 }
  @media all and (max-width: 500px)
-  { .eb {width: 50px
+  { .eb {width: 100%
     }
 }
 .Heading {
