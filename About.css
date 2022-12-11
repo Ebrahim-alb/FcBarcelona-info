@@ -7,13 +7,15 @@
 body{
 width: 100%
 }
-@media all and (max-width: 50px){
+@media all and (min-width: 500px){
 
  .eb {
     width:100%
   }
-  .eb {max-width: 50px
-  }
+}
+ @media all and (max-width: 500px)
+  { .eb {width: 50px
+    }
 }
 .Heading {
   background: linear-gradient(to left,red,blue);
