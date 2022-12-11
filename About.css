@@ -7,7 +7,7 @@
 body{
 width: 100%
 }
-@media all and (min-width: 800px){
+@media all and (max-width: 200px){
 
  .eb {
     width:100%
