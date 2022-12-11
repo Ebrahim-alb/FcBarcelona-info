@@ -12,6 +12,8 @@ width: 100%
  .eb {
     width:100%
   }
+  .eb {max-width: 200px
+  }
 }
 .Heading {
   background: linear-gradient(to left,red,blue);
