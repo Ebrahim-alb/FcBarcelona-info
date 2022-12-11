@@ -8,7 +8,7 @@ body{
 width: 100%
 }
 @media only screen and (min-width: 100%){
-  .eb { max-width: 100%}
+  .Heading, .About, .About-text, .About img, .main, .main-text, .Content img { max-width: 100%}
 }
 .Heading {
   background: linear-gradient(to left,red,blue);
